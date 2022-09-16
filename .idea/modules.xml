@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BitcoinCheckerGithub.iml" filepath="$PROJECT_DIR$/BitcoinCheckerGithub.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dataModule/dataModule.iml" filepath="$PROJECT_DIR$/dataModule/dataModule.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dataModuleTester/dataModuleTester.iml" filepath="$PROJECT_DIR$/dataModuleTester/dataModuleTester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BitcoinChecker.iml" filepath="$PROJECT_DIR$/.idea/modules/BitcoinChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BitcoinChecker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BitcoinChecker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataModule/BitcoinChecker.dataModule.iml" filepath="$PROJECT_DIR$/.idea/modules/dataModule/BitcoinChecker.dataModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataModule/BitcoinChecker.dataModule.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dataModule/BitcoinChecker.dataModule.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataModule/BitcoinChecker.dataModule.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dataModule/BitcoinChecker.dataModule.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataModule/BitcoinChecker.dataModule.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dataModule/BitcoinChecker.dataModule.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataModuleTester/BitcoinChecker.dataModuleTester.iml" filepath="$PROJECT_DIR$/.idea/modules/dataModuleTester/BitcoinChecker.dataModuleTester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataModuleTester/BitcoinChecker.dataModuleTester.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dataModuleTester/BitcoinChecker.dataModuleTester.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataModuleTester/BitcoinChecker.dataModuleTester.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dataModuleTester/BitcoinChecker.dataModuleTester.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataModuleTester/BitcoinChecker.dataModuleTester.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dataModuleTester/BitcoinChecker.dataModuleTester.unitTest.iml" />
     </modules>
   </component>
 </project>
